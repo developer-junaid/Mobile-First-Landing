@@ -5,12 +5,11 @@ This is a Fully Responsive, Mobile-first Landing Page built using HTML, CSS, Scs
 
 ## Interface
 
-<img src='./projectImages/homepageBlog.png/' />
-<img src='./projectImages/categoryBlog.png/' />
+<img src='./projectImages/home.png/' />
 
 ## Mobile Interface
 
-<img src='./projectImages/mobileBlog.png/' />
+<img src='./projectImages/mobile.png/' />
 
 ## Run Locally
 
